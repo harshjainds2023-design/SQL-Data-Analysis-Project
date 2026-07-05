@@ -22,14 +22,6 @@ Various SQL queries were executed to retrieve, filter, group, sort, and summariz
 - pgAdmin 4
 - SQL
 - 
-## 📂 Project Files
-
-- SQL Data Analysis.sql
-- SQL_Project_Cover.png
-- Query Screenshots
-
----
-
 ## 📚 SQL Concepts Covered
 
 - SELECT
